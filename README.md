@@ -10,7 +10,7 @@
 - Run on command line: ./a.out 32_BIT_BIN_INST
 - Use the command help to prompt the help menu
 
-** Supports
+# Supports
 - R-Type: [add, addu, sub, subu, and, or, nor, slt, sltu, sll, srl, jr]
 - I-Type: [beq, bne, addi, addiu, andi, ori, slti, sltiu, lui, lw, sw]
 - J-Type: [j, jal]
